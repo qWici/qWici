@@ -1,4 +1,4 @@
-### Hi there, I'm Vania - aka [qWici][website] 👋
+### Hi there, I'm Vania - aka [qWici][website]  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Full-stack WebDev!
 - 🔭 I’m currently working at [ElementalsWeb][elementals]
