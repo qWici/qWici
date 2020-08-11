@@ -38,6 +38,11 @@
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [10 новых функций ES2020, которые вы должны знать](https://devkucher.com/posts/10-novyh-funkciy-es2020-kotorye-vy-dolzhny-znat)
