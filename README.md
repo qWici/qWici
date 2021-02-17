@@ -1,7 +1,7 @@
 ### Hi there, I'm Vania - aka [qWici][website]  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Full-stack WebDev!
-- 🔭 I’m currently working at [ElementalsWeb][elementals]
+- 🔭 I’m currently working at [PLVision][plvision]
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
@@ -63,4 +63,4 @@ Blade Template   7 mins          ▓░░░░░░░░░░░░░░�
 [website]: https://devkucher.com
 [twitter]: https://twitter.com/KucherDev
 [linkedin]: https://www.linkedin.com/in/ivankucher
-[elementals]: https://www.elementalsweb.com
+[plvision]: https://plvision.eu/
