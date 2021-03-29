@@ -52,17 +52,17 @@ CSS              2 mins          ▒░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Это начало конца для PWA?](https://devkucher.com/posts/eto-nachalo-konca-dlya-pwa) 
+ - [Это начало конца для PWA?](https://devkucher.com/posts/eto-nachalo-konca-dlya-pwa) 
  <p>Прогрессивные веб-приложения меняют наше понимание о приложениях в целом, предоставляя веб-cтрани...
- - 🌮 [$title]($url) [10 новых функций ES2020, которые вы должны знать](https://devkucher.com/posts/10-novyh-funkciy-es2020-kotorye-vy-dolzhny-znat) 
+ - [10 новых функций ES2020, которые вы должны знать](https://devkucher.com/posts/10-novyh-funkciy-es2020-kotorye-vy-dolzhny-znat) 
  <ol>
 <li><a href="#1-bigint">#1 BigInt</a></li>
 <li><a href="#2-%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8...
- - 🔥 [Доступна 14 версия Node.js](https://devkucher.com/posts/dostupna-14-versiya-node-js) 
+ - [Доступна 14 версия Node.js](https://devkucher.com/posts/dostupna-14-versiya-node-js) 
  <p>В этом релизе:</p>
 <ol>
 <li><a href="#%D0%B4%D0%B8%D0%B0%D0%B3%D0%BD%D0%BE%D1%81%D1%82%D0%B8%D1%8...
- - 💫 [Принципы разработки, которым должен следовать каждый разработчик](https://devkucher.com/posts/principy-razrabotki-kotorym-dolzhen-sledovat-kazhdyy-razrabotchik) 
+ - [Принципы разработки, которым должен следовать каждый разработчик](https://devkucher.com/posts/principy-razrabotki-kotorym-dolzhen-sledovat-kazhdyy-razrabotchik) 
  <h2 id="что-делает-тебя-хорошим-разработчиком">Что делает тебя хорошим разработчиком?</h2>
 <p>Если в...<!-- BLOG-POST-LIST:END -->
 ---
