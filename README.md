@@ -53,7 +53,7 @@ PHP              18 mins         █▒░░░░░░░░░░░░░�
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
  - 💯 [Это начало конца для PWA?](https://devkucher.com/posts/eto-nachalo-konca-dlya-pwa)
- - 🌮 [$title]($url) [10 новых функций ES2020, которые вы должны знать](https://devkucher.com/posts/10-novyh-funkciy-es2020-kotorye-vy-dolzhny-znat)
+ - 🌮 [10 новых функций ES2020, которые вы должны знать](https://devkucher.com/posts/10-novyh-funkciy-es2020-kotorye-vy-dolzhny-znat)
  - 🔥 [Доступна 14 версия Node.js](https://devkucher.com/posts/dostupna-14-versiya-node-js)
  - 💫 [Принципы разработки, которым должен следовать каждый разработчик](https://devkucher.com/posts/principy-razrabotki-kotorym-dolzhen-sledovat-kazhdyy-razrabotchik)<!-- BLOG-POST-LIST:END -->
 ---
