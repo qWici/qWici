@@ -48,11 +48,11 @@ TypeScript   3 mins          █████████████████
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
- - 💯 [7 JavaScript советов и хитростей, которым никто не учит 🥷](https://devkucher.com/posts/7-javascript-sovetov-i-hitrostej-kotorym-nikto-ne-uchit)
- - 🌮 [🚀 10 популярных GitHub проектов для веб-разработчиков #1](https://devkucher.com/posts/10-populyarnyh-github-proektov-dlya-veb-razrabotchikov-1)
- - 🔥 [Как создать свой первый React Hook от начала до конца](https://devkucher.com/posts/kak-sozdat-svoj-pervyj-react-hook-ot-nachala-do-konca)
- - 💫 [Это начало конца для PWA?](https://devkucher.com/posts/eto-nachalo-konca-dlya-pwa)
- - 💫 [10 новых функций ES2020, которые вы должны знать](https://devkucher.com/posts/10-novyh-funkciy-es2020-kotorye-vy-dolzhny-znat)<!-- BLOG-POST-LIST:END -->
+ - 💯 [🚀 10 популярных GitHub проектов для веб-разработчиков #2](https://devkucher.com/posts/10-populyarnyh-github-proektov-dlya-veb-razrabotchikov-2)
+ - 🌮 [7 JavaScript советов и хитростей, которым никто не учит 🥷](https://devkucher.com/posts/7-javascript-sovetov-i-hitrostej-kotorym-nikto-ne-uchit)
+ - 🔥 [🚀 10 популярных GitHub проектов для веб-разработчиков #1](https://devkucher.com/posts/10-populyarnyh-github-proektov-dlya-veb-razrabotchikov-1)
+ - 💫 [Как создать свой первый React Hook от начала до конца](https://devkucher.com/posts/kak-sozdat-svoj-pervyj-react-hook-ot-nachala-do-konca)
+ - 💫 [Это начало конца для PWA?](https://devkucher.com/posts/eto-nachalo-konca-dlya-pwa)<!-- BLOG-POST-LIST:END -->
 ---
 
 <img align="left" alt="qWici's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=qWici&show_icons=true&hide_border=true" />
