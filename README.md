@@ -40,7 +40,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-TypeScript   13 mins         ████████████████████████▓   98.90 % 
+
 ```
 <!--END_SECTION:waka-->
 
