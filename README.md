@@ -59,7 +59,8 @@ Markdown     4 mins          ▒░░░░░░░░░░░░░░░░
  - 💫 [Это начало конца для PWA?](https://devkucher.com/posts/eto-nachalo-konca-dlya-pwa)<!-- BLOG-POST-LIST:END -->
 ---
 
-<img align="left" alt="qWici's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=qWici&show_icons=true&hide_border=true" />
+
+[![qWici's GitHub stats](https://github-readme-stats.vercel.app/api?username=qWici)](https://github.com/qWici/github-readme-stats)
 
 [website]: https://devkucher.com
 [twitter]: https://twitter.com/KucherDev
