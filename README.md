@@ -57,6 +57,8 @@ Vue.js       2 mins          ░░░░░░░░░░░░░░░░░
  - 💫 [Это начало конца для PWA?](https://devkucher.com/posts/eto-nachalo-konca-dlya-pwa)<!-- BLOG-POST-LIST:END -->
 ---
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=qWici)
+
 
 [![qWici's GitHub stats](https://github-readme-stats.vercel.app/api?username=qWici)](https://github.com/qWici/github-readme-stats)
 
