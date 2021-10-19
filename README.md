@@ -40,7 +40,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-JSX    1 min           ████████████████████████▓   98.38 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
