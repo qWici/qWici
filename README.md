@@ -1,7 +1,7 @@
 ### Hi there, I'm Vania - aka [qWici][website]  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Full-stack WebDev!
-- 🔭 I’m currently working at [PLVision][plvision]
+- 🔭 I’m currently working at [Genesis][gentech]
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
@@ -67,4 +67,4 @@ JavaScript   15 mins         ▒░░░░░░░░░░░░░░░░
 [website]: https://devkucher.com
 [twitter]: https://twitter.com/KucherDev
 [linkedin]: https://www.linkedin.com/in/ivankucher
-[plvision]: https://plvision.eu/
+[gentech]: https://gen.tech/
