@@ -53,15 +53,6 @@ tsconfig         12 mins         ▒░░░░░░░░░░░░░░�
 
 ---
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
- - 💯 [🚀 10 популярных GitHub проектов для веб-разработчиков #2](https://devkucher.com/posts/10-populyarnyh-github-proektov-dlya-veb-razrabotchikov-2)
- - 🌮 [7 JavaScript советов и хитростей, которым никто не учит 🥷](https://devkucher.com/posts/7-javascript-sovetov-i-hitrostej-kotorym-nikto-ne-uchit)
- - 🔥 [🚀 10 популярных GitHub проектов для веб-разработчиков #1](https://devkucher.com/posts/10-populyarnyh-github-proektov-dlya-veb-razrabotchikov-1)
- - 💫 [Как создать свой первый React Hook от начала до конца](https://devkucher.com/posts/kak-sozdat-svoj-pervyj-react-hook-ot-nachala-do-konca)
- - 💫 [Это начало конца для PWA?](https://devkucher.com/posts/eto-nachalo-konca-dlya-pwa)<!-- BLOG-POST-LIST:END -->
----
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=qWici)
 
 
