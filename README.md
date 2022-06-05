@@ -39,7 +39,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Prisma           1 hr 26 mins    ██████████▓░░░░░░░░░░░░░░   43.23 %
+TypeScript       1 hr 16 mins    █████████▓░░░░░░░░░░░░░░░   38.13 %
+Bash             16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+.env file        10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+JSON             5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+tsconfig         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
