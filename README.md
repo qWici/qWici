@@ -3,9 +3,6 @@
 ## I'm a Full-stack WebDev!
 - 🔭 I’m currently working at [Universe][universe]
 
-<br />
-<br />
-
 ---
 
 📊 **This week I spent my time on**
