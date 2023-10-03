@@ -1,4 +1,4 @@
-### Hi there, I'm Vania - aka [qWici][website]
+### Hi there, I'm Ivan - aka [qWici][website]
 
 ## I'm a Full-stack WebDev!
 - 🔭 I’m currently working at [Universe][universe]
@@ -19,9 +19,6 @@ JSON             31 mins         ▓░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=qWici)
-
 
 [![qWici's GitHub stats](https://github-readme-stats.vercel.app/api?username=qWici)](https://github.com/qWici/github-readme-stats)
 
