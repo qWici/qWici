@@ -9,7 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash           39 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.31 %
+TypeScript     25 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
+YAML           22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
+Markdown       13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+Docker         13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
 ```
 
 <!--END_SECTION:waka-->
